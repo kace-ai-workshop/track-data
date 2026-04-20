@@ -1,0 +1,14 @@
+---
+description: Workshop rules
+globs: "**/*"
+---
+
+# Workshop rules
+
+- Прочитай PROJECT.md и TASK.md перед началом.
+- Делай по одной подзадаче.
+- Останавливайся после каждой подзадачи.
+- Пиши чистый Python с type hints.
+- Используй только стандартную библиотеку: csv, sqlite3, argparse.
+- Без pandas.
+- Без SQLAlchemy.
