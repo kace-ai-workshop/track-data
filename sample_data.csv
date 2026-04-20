@@ -1,0 +1,11 @@
+id,name,email,age,salary,department,hire_date,is_active
+1,Ivan Petrov,ivan.petrov@example.com,31,125000.50,Analytics,2023-01-15,true
+2,Anna Smirnova,anna.smirnova@example.com,,98000.00,Finance,2022-07-01,false
+3,Sergey Ivanov,sergey.ivanov@example.com,28,,Engineering,2024-02-10,true
+4,Maria Kozlova,,35,143500.75,Marketing,2021-11-20,true
+5,Alexey Sidorov,alexey.sidorov@example.com,42,167000.00,,2020-05-03,false
+6,Olga Fedorova,olga.fedorova@example.com,29,111200.00,Support,,true
+7,Dmitry Orlov,dmitry.orlov@example.com,37,152300.40,Sales,2019-09-09,
+8,Elena Volkova,elena.volkova@example.com,26,89000.00,HR,2024-06-18,true
+9,Nikolay Morozov,nikolay.morozov@example.com,33,134400.90,Operations,2018-03-27,false
+10,Tatiana Belova,tatiana.belova@example.com,40,176800.00,Legal,2017-12-12,true
